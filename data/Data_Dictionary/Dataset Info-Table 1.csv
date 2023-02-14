@@ -1,0 +1,35 @@
+Table 1
+,,,,
+Data Dictionary - Dataset Information,,,,
+,,,,
+General,,,,
+Dataset Name,Local Law 84,,,
+Agency Name,Mayor's Office of Climate and Sustainability,,,
+Update Frequency,Historical,,,
+Dataset Description,"Data and metrics on water and energy consumption in privately owned buildings over 25,000 ft2 and in City-owned buildings over 10,000 ft2.",,,
+Dataset Keywords,"Local Law 84, LL84, energy benchmarking, GGBP, Greener Greater Buildings Plan, Energy Star, EUI, energy use intensity, greenhouse gas, GHG, building energy, energy efficiency, EPA, Portfolio Manager, Environmental Protection Agency, EPA",,,
+Dataset Category,Environment,,,
+Can Dataset Feasibly Be Automated?,Yes,,,
+Removed Records?,No,,,
+Data published on Agency's Website?,No,,,
+Update frequency on Agency's Website,,,,
+Detailed Description,,,,
+"List any additional information in order to provide context to the data for someone not familiar with your agency's operations. 
+    ","This data is collected annually via EPA Portfolio Manager.
+
+The data collection requires building owners to measure their energy and water consumption and comare it against that of similar buildings in the city and country.
+
+The data is useful for policy analysts as it provides transparency into energy and water consumption for the city's largest buildings.",,,
+"Why is this data collected?
+
+How is this data collected?
+
+What does each record represent?
+
+How can this data be used?
+
+What are the idiosyncrasies or limitations of the data to be aware of?",,,,
+,,,,
+,,,,
+,,,,
+Form V 1.0,,,,
